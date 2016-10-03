@@ -1,2 +1,2 @@
 # GF_Docs
-Internal Documents
+In diesem Repository verwalten wir interne Dokumente
